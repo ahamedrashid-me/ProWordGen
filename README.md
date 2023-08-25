@@ -15,4 +15,4 @@ Semi-Automatic Wordlist.txt generator !
                       5.   sudo bash prowordgen.sh [Hit ENTER]
 
                         
-                              ![ProWordGen](https://github.com/ahamedrashid-me/ProWordGen/assets/138254389/b5b7fb68-ef2b-41ec-b9a7-d2f978bb6fff)
+  ![ProWordGen](https://github.com/ahamedrashid-me/ProWordGen/assets/138254389/b5b7fb68-ef2b-41ec-b9a7-d2f978bb6fff)
